@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-261
-description: "Create XXD Panel 261 raster artwork: a faithful photograph paired with a nostalgic colored-pencil and wax-pastel memory with a small subject and a wide paper field. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-261 or asks for this 蜡笔记忆 style."
+description: "XXD Panel 261｜Crayon Memory: draws not a real place but the feeling it left — the subject of a photo reduced to its most memorable core and redrawn as a naive memory illustration in coloured pencil and wax pastel, with simplified structure, loose perspective, visible pencil friction, crayon grain, dry-brush pigment, uneven coverage and paper fibres, loose searching lines with pauses, a small subject off-centre, against the edge or cropped in wide negative space, a soft, quiet, time-worn palette of misty blue, grey-green, warm off-white, soft brown, pale yellow and muted red from the photo, and a few small diary-like text fragments in any language. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-261 or asks for crayon, coloured-pencil or nostalgic memory illustration from a photo."
 ---
 
 # XXD Panel 261

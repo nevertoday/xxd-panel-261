@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 261｜Crayon Memory: draws not a real place but the feeling it left — the subject of a photo reduced to its most memorable core and redrawn as a naive memory illustration in coloured pencil and wax pastel, with simplified structure, loose perspective, visible pencil friction, crayon grain, dry-brush pigment, uneven coverage and paper fibres, loose searching lines with pauses, a small subject off-centre, against the edge or cropped in wide negative space, a soft, quiet, time-worn palette of misty blue, grey-green, warm off-white, soft brown, pale yellow and muted red from the photo, and a few small diary-like text fragments in any language. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-261 or asks for crayon, coloured-pencil or nostalgic memory illustration from a photo.",
+  "short_description": "蜡笔记忆：把照片主体收成彩铅和蜡笔画的小尺度记忆，四周是大片负空间",
+  "zh-CN": {
+    "name": "蜡笔记忆",
+    "tagline": "不画那个地方，只画它留下的感觉：彩铅和蜡笔画出的一小段记忆。",
+    "look": "照片只留下最值得记住的视觉核心，结构简化，透视不必准确，信息也不必完整，像被记忆保存下来的一个片刻。用彩铅和蜡笔画：看得见彩铅的摩擦、蜡笔颗粒、干刷痕、不均匀的覆盖和纸纤维，线条松弛，带停顿和寻找。主体很小，可以偏心、贴边或被裁切，四周大片负空间。颜色从照片取，收成雾蓝、灰绿、暖米白、柔棕、浅黄和低饱和红这样安静、带时间感的几种。几段小字像旧日记或旅行手稿的残片，语种不限。",
+    "traits": ["蜡笔记忆", "彩铅蜡笔", "稚拙手绘", "小尺度", "负空间", "怀旧色"],
+    "good": [
+      "带着某种感觉的地方：海边的小屋、乡间小路、旧车站、一扇窗",
+      "能代表一段回忆的单个对象：一棵老树、一辆旧自行车、一盏路灯",
+      "想做成旧绘本页、私人视觉日记或回忆卡片的照片"
+    ],
+    "poor": [
+      "想准确记录一个地点样子的照片：建筑档案、旅游宣传图",
+      "想要画满背景或保留完整场景的需求",
+      "想要数字矢量、卡通或商业儿童插画效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Crayon Memory",
+    "tagline": "Draws not the place itself but the feeling it left: a small memory in coloured pencil and wax pastel.",
+    "look": "Only the most memorable visual core of the photo remains, its structure simplified, its perspective free to be off and its information incomplete, like a moment kept by memory. It is drawn in coloured pencil and wax pastel: you can see the pencil friction, crayon grain, dry-brush marks, uneven coverage and paper fibres, with loose lines that pause and search. The subject is small and may sit off-centre, against the edge or cropped, in wide negative space. Colours come from the photo and settle into a few quiet, time-worn ones such as misty blue, grey-green, warm off-white, soft brown, pale yellow and muted red. A few small text fragments in any language read like scraps from an old diary or travel notebook.",
+    "traits": ["Crayon memory", "Coloured pencil and wax pastel", "Naïve hand drawing", "Small scale", "Negative space", "Nostalgic palette"],
+    "good": [
+      "Places that hold a feeling: a seaside hut, a country lane, an old station, a window",
+      "A single object that stands for a memory: an old tree, an old bicycle, a street lamp",
+      "Photos you want as a page from an old picture book, a private visual diary or a memory card"
+    ],
+    "poor": [
+      "Photos meant to record exactly what a place looks like: architectural records, tourism promotion",
+      "Wanting a filled background or the whole scene kept",
+      "Requests for digital vector, cartoon or commercial children's illustration looks"
+    ]
+  },
+  "ja": {
+    "name": "クレヨンの記憶",
+    "tagline": "その場所ではなく、そこに残った感じを描きます。色鉛筆とクレヨンで描いた小さな記憶です。",
+    "look": "写真からはいちばん記憶に残る視覚の核だけを残し、構造は簡略化して、遠近は正確でなくても、情報が欠けていてもかまいません。記憶にしまわれた一瞬のようです。描くのは色鉛筆とクレヨンで、色鉛筆のこすれ、クレヨンの粒子、かすれた筆跡、塗りのむら、紙の繊維が見え、線はゆるく、ためらいながら形を探ります。主役は小さく、中心からずれても、端に寄っても、切れてもよく、まわりは広い余白です。色は写真から取り、霧のような青、灰緑、温かなオフホワイト、やわらかな茶、淡い黄色、くすんだ赤など、静かで時を感じる数色にまとめます。古い日記や旅の手稿の切れ端のような、言語を問わない小さな文字をいくつか添えます。",
+    "traits": ["クレヨンの記憶", "色鉛筆とクレヨン", "素朴な手描き", "小さなスケール", "余白", "懐かしい色"],
+    "good": [
+      "ある感じが残っている場所：海辺の小屋、田舎の小道、古い駅、窓",
+      "思い出を象徴する一つのもの：古い木、古い自転車、街灯",
+      "古い絵本の一ページ、個人的な絵日記、思い出のカードにしたい写真"
+    ],
+    "poor": [
+      "場所の見た目を正確に記録したい写真：建築の記録、観光の宣伝用",
+      "背景を埋めたい場合や、場面全体を残したい場合",
+      "デジタルのベクター、アニメ調、商業的な児童イラストを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "크레용 기억",
+    "tagline": "그곳을 그리지 않고 그곳이 남긴 느낌을 그립니다. 색연필과 크레용으로 그린 작은 기억.",
+    "look": "사진에서 가장 기억할 만한 시각적 핵심만 남기고, 구조는 단순하게, 원근은 정확하지 않아도, 정보는 다 갖추지 않아도 됩니다. 기억이 간직한 한순간 같습니다. 색연필과 크레용으로 그려 색연필의 마찰, 크레용 입자, 마른 붓 자국, 고르지 않은 칠, 종이 섬유가 보이고, 선은 느슨하게 멈추고 더듬습니다. 주인공은 작고, 중심에서 벗어나거나 가장자리에 붙거나 잘려도 되며 둘레는 넓은 여백입니다. 색은 사진에서 가져와 안개 낀 파랑, 회녹색, 따뜻한 미색, 부드러운 갈색, 연노랑, 채도 낮은 빨강처럼 조용하고 시간이 묻은 몇 가지로 정리합니다. 오래된 일기나 여행 원고의 조각 같은, 언어 제한 없는 작은 글씨 몇 줄을 곁들입니다.",
+    "traits": ["크레용 기억", "색연필과 크레용", "천진한 손그림", "작은 크기", "여백", "향수 어린 색"],
+    "good": [
+      "어떤 느낌이 남아 있는 장소: 바닷가 오두막, 시골길, 오래된 역, 창문",
+      "추억을 대표하는 대상 하나: 늙은 나무, 낡은 자전거, 가로등",
+      "오래된 그림책 한 페이지, 개인 그림일기, 추억 카드로 만들고 싶은 사진"
+    ],
+    "poor": [
+      "장소의 모습을 정확히 기록해야 하는 사진: 건축 기록, 관광 홍보물",
+      "배경을 채우거나 장면 전체를 살리고 싶은 경우",
+      "디지털 벡터, 만화풍, 상업 아동 일러스트를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "ذاكرة الطباشير الشمعي",
+    "tagline": "لا يرسم المكان نفسه بل الإحساس الذي تركه: ذكرى صغيرة بالأقلام الملوّنة والباستيل الشمعي.",
+    "look": "لا يبقى من الصورة إلا لبّها البصري الأجدر بالتذكّر، ببنية مبسّطة ومنظور لا يلزم أن يكون دقيقاً ومعلومات غير مكتملة، كلحظة حفظتها الذاكرة. تُرسم بالأقلام الملوّنة والباستيل الشمعي: يظهر احتكاك القلم وحبيبات الطباشير وآثار الفرشاة الجافة والتغطية غير المتساوية وألياف الورق، بخطوط مرتخية تتوقف وتبحث. العنصر صغير، وقد يبتعد عن المركز أو يلامس الحافة أو يُقتطع، في فراغ واسع. تُؤخذ الألوان من الصورة وتستقر في ألوان قليلة هادئة كأن الزمن مرّ عليها، مثل الأزرق الضبابي والأخضر الرمادي والأبيض المائل للدفء والبني الناعم والأصفر الباهت والأحمر الخافت. وتأتي بضع شذرات نصية صغيرة بأي لغة كأنها قصاصات من يوميات قديمة أو دفتر رحلات.",
+    "traits": ["ذاكرة الطباشير الشمعي", "أقلام ملوّنة وباستيل شمعي", "رسم يدوي فطري", "حجم صغير", "فراغ سلبي", "ألوان الحنين"],
+    "good": [
+      "أماكن تحتفظ بإحساس ما: كوخ على الشاطئ، درب ريفي، محطة قديمة، نافذة",
+      "شيء واحد يرمز إلى ذكرى: شجرة عجوز، دراجة قديمة، مصباح شارع",
+      "صور تريدها صفحة من كتاب مصوّر قديم أو يوميات مرسومة أو بطاقة ذكرى"
+    ],
+    "poor": [
+      "صور يُراد بها توثيق شكل المكان بدقة: سجلات معمارية، ترويج سياحي",
+      "الرغبة في خلفية ممتلئة أو الاحتفاظ بالمشهد كاملاً",
+      "طلب رسم متجهي رقمي أو كرتوني أو رسوم أطفال تجارية"
+    ]
+  }
+}
